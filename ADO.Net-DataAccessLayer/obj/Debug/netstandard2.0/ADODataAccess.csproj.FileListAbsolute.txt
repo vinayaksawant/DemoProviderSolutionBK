@@ -1,0 +1,9 @@
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\bin\Debug\netstandard2.0\ADODataAccess.deps.json
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\bin\Debug\netstandard2.0\ADODataAccess.dll
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\bin\Debug\netstandard2.0\ADODataAccess.pdb
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\obj\Debug\netstandard2.0\ADODataAccess.csproj.CoreCompileInputs.cache
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\obj\Debug\netstandard2.0\ADODataAccess.AssemblyInfoInputs.cache
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\obj\Debug\netstandard2.0\ADODataAccess.AssemblyInfo.cs
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\obj\Debug\netstandard2.0\ADODataAccess.dll
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\obj\Debug\netstandard2.0\ADODataAccess.pdb
+C:\VinayakDevWork\DemoKaggleAccessAPI\ADO.Net-DataAccessLayer\obj\Debug\netstandard2.0\ADODataAccess.csprojAssemblyReference.cache

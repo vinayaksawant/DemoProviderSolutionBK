@@ -1,0 +1,9 @@
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\bin\Release\netstandard2.0\ADODataAccess.deps.json
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\bin\Release\netstandard2.0\ADODataAccess.dll
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\bin\Release\netstandard2.0\ADODataAccess.pdb
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\obj\Release\netstandard2.0\ADODataAccess.csprojAssemblyReference.cache
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\obj\Release\netstandard2.0\ADODataAccess.csproj.CoreCompileInputs.cache
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\obj\Release\netstandard2.0\ADODataAccess.AssemblyInfoInputs.cache
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\obj\Release\netstandard2.0\ADODataAccess.AssemblyInfo.cs
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\obj\Release\netstandard2.0\ADODataAccess.dll
+C:\VinayakDevWork\DemoProviderSolution\ADO.Net-DataAccessLayer\obj\Release\netstandard2.0\ADODataAccess.pdb

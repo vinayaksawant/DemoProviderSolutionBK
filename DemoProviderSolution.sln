@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADODataAccess", "ADO.Net-DataAccessLayer\ADODataAccess.csproj", "{CC49E849-E3AA-42AF-8F5C-873D9F5B0B80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoProviderAccessAPI", "DemoProviderAccessAPI\DemoProviderAccessAPI.csproj", "{201C9E95-ED14-40B2-981F-314EFFA81802}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_OnPremConsole_ToCosmos", "Demo_OnPremConsole_ToCosmos\Demo_OnPremConsole_ToCosmos.csproj", "{7806ED19-C688-4FF7-A3B1-226D05B85EE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_OnPremAPI_ToCosmos", "Demo_OnPremAPI_ToCosmos\Demo_OnPremAPI_ToCosmos.csproj", "{793F3833-B9D1-4C90-9157-E9A898C426C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_AzureAppService_ToCosmos", "Demo_AzureAppService_ToCosmos\Demo_AzureAppService_ToCosmos.csproj", "{FDBA3575-8B51-4645-A29F-12406A3193E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataFiles_CosmosLoads", "DataFiles_CosmosLoads", "{585B653E-1799-49BF-9D5B-DBB3A8BE0D51}"
+	ProjectSection(SolutionItems) = preProject
+		OrangeBooster_Providers_1.csv = OrangeBooster_Providers_1.csv
+		WiredBrain_ProviderFile.csv = WiredBrain_ProviderFile.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC49E849-E3AA-42AF-8F5C-873D9F5B0B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC49E849-E3AA-42AF-8F5C-873D9F5B0B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC49E849-E3AA-42AF-8F5C-873D9F5B0B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC49E849-E3AA-42AF-8F5C-873D9F5B0B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201C9E95-ED14-40B2-981F-314EFFA81802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201C9E95-ED14-40B2-981F-314EFFA81802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201C9E95-ED14-40B2-981F-314EFFA81802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201C9E95-ED14-40B2-981F-314EFFA81802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7806ED19-C688-4FF7-A3B1-226D05B85EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806ED19-C688-4FF7-A3B1-226D05B85EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806ED19-C688-4FF7-A3B1-226D05B85EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806ED19-C688-4FF7-A3B1-226D05B85EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793F3833-B9D1-4C90-9157-E9A898C426C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793F3833-B9D1-4C90-9157-E9A898C426C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793F3833-B9D1-4C90-9157-E9A898C426C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793F3833-B9D1-4C90-9157-E9A898C426C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBA3575-8B51-4645-A29F-12406A3193E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBA3575-8B51-4645-A29F-12406A3193E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBA3575-8B51-4645-A29F-12406A3193E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBA3575-8B51-4645-A29F-12406A3193E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49CB2D9A-2952-430C-BA6E-C58C56CCD6A0}
+	EndGlobalSection
+EndGlobal
